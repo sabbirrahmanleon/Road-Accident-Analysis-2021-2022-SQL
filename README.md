@@ -7,7 +7,3 @@ Analyzing road accident data is vital for identifying contributing factors and d
 1. Road Accident Analysis Dashboard (2021-2022) — MS Excel 
 
 https://github.com/sabbirrahmanleon/Road-Accident-Dashboard-MS-Excel
-
-2. Road Accident Analysis (2021-2022) — PostgreSQL 
-
-https://github.com/sabbirrahmanleon/Road-Accident-Analysis-2021-2022-SQL
